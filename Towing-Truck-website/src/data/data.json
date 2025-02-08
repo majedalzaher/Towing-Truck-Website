@@ -1,0 +1,124 @@
+{
+  "Header": {
+    "title": "We are 101 Auto Towing Inc",
+    "paragraph": ""
+  },
+  "About": {
+    "paragraph": " Welcome to 101 Auto Towing Inc Company, your trusted partner for reliable towing services in San Jose, California. With three years of dedicated service, we specialize in roadside assistance, vehicle recovery, and heavy-duty towing, ensuring that help is always just a call away. Our team is available 24/7, offering prompt and affordable solutions backed by years of expertise. Whether you're stranded on the road or need heavy-duty support, 101 Tow Truck Company is here to provide fast, efficient, and professional service tailored to your needs\n\n.",
+    "Why": [
+      "Always Available 24/7",
+      "Experienced and Reliable Team",
+      "Affordable Towing Rates",
+      "Quick Response Times"
+    ],
+    "Why2": [
+      "Comprehensive Towing Services",
+      "Customer Satisfaction Guaranteed",
+      "State-of-the-Art Equipment",
+      "Serving San Jose Proudly"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Auto Towing Inc",
+      "largeImage": "img/portfolio/01-large.jpg"
+    },
+    {
+      "title": "Auto Towing Inc",
+      "largeImage": "img/portfolio/02-large.jpg"
+    },
+    {
+      "title": "Auto Towing Inc",
+      "largeImage": "img/portfolio/03-large.jpg"
+    },
+    {
+      "title": "Auto Towing Inc",
+      "largeImage": "img/portfolio/04-large.jpg"
+    },
+    {
+      "title": "Auto Towing Inc",
+      "largeImage": "img/portfolio/05-large.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg"
+    },
+    {
+      "title": "Auto Towing Inc",
+      "largeImage": "img/portfolio/07-large.jpg"
+    },
+    {
+      "title": "Auto Towing Inc",
+      "largeImage": "img/portfolio/08-large.jpg"
+    },
+    {
+      "title": "Auto Towing Inc",
+      "largeImage": "img/portfolio/09-large.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wrench",
+      "name": "Light-duty car roadside assistance",
+      "text": "We provide reliable roadside assistance for light-duty vehicles. Whether you're stuck with a flat tire or facing a mechanical issue, our team is ready to get you back on the road quickly and safely."
+    },
+    {
+      "icon": "fa fa-truck",
+      "name": "Medium-duty truck towing services",
+      "text": "Our towing services are designed to handle medium-duty trucks with ease. Trust us to transport your vehicle securely, whether it’s for breakdown recovery or relocation.\n\n"
+    },
+    {
+      "icon": "fa fa-solid fa-cogs",
+      "name": "Tire replacement and jump-starting",
+      "text": "Don't let a flat tire or a dead battery ruin your day! We offer on-the-spot tire changes and jump-starting services to get your vehicle running smoothly again.\n\n"
+    },
+    {
+      "icon": "fa fa-solid fa-unlock",
+      "name": "Lockout assistance for door unlocking",
+      "text": "Locked out of your vehicle? Our lockout assistance service provides quick and damage-free door unlocking to get you back inside your car in no time."
+    },
+    {
+      "icon": "fa fa-solid fa-motorcycle",
+      "name": "Motorcycle towing solutions",
+      "text": "Specialized in towing motorcycles, we ensure safe and efficient transport for your two-wheeled vehicles, no matter the situation or distance.\n\n"
+    },
+    {
+      "icon": "fa fa-car",
+      "name": "Fuel delivery to stranded vehicles",
+      "text": "Ran out of fuel? No problem! Our prompt fuel delivery service will get you back on your journey without delay.\n\n"
+    }
+  ],
+  "Testimonials": [
+    {
+      "text": "\"Highly recommended 5 star service the owner was so polite and helpful show up fast and did he’s best with the skates to keep it higher then the flat bed when he’s winching up my car.\n\"",
+      "name": "AJ Abou Jabal"
+    },
+    {
+      "text": "\"Very caring and definitely problem solver in a timely manner , we highly recommend them for any of your towing needs and road side assistance , i would rate them at 10+\n\"",
+      "name": "Ahmad Jaber"
+    },
+    {
+      "text": "\"Our car overheated on highway 17 and they came within 30 minutes. Ali the driver was very polite and courteous. Will keep his number in my contacts!\n\"",
+      "name": "Charmaine J "
+    },
+    {
+      "text": "\"101 Auto towing inc was amazing. They were there before 30 minutes. The driver was so careful with my car and was a very safe driver. Had to take me 30 miles to home. I won't consider using anyone else.\"",
+      "name": "Osama AbuSari"
+    },
+    {
+      "text": "\"World class. I have dealt with several towing companies since I am in mechanic business and these guys have not let me down. Can refer them with 100% certainty.\n\"",
+      "name": "Yosaf Ayrubi"
+    },
+    {
+      "text": "\"I’m very impressed with the speed and efficiency of this service, especially this is highly needed during urgent situations. Highly recommend.\n\"",
+      "name": "Iyas Sartawi"
+    }
+  ],
+  "Contact": {
+    "address": "4100 the woods dr 507 San Jose  CA.95136 ",
+    "phone": "+1 (408) 680-7352",
+    "email": "Service@101autotowing.com",
+    "facebook": "https://www.facebook.com/profile.php?id=100084133144430",
+    "tictok": "https://www.tiktok.com/@101autotowing?_t=ZP-8szJ0Pp3HI6&_r=1"
+  }
+}
